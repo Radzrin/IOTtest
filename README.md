@@ -4,8 +4,8 @@
 
 All versions will be able to run C#, Python and possibly Java code
 
-[read code from a String](https://social.msdn.microsoft.com/Forums/Lync/en-US/e15bb0e1-6759-4afe-8c3c-d32d751efc87/i-want-to-execute-a-line-of-c-code-stored-in-a-string?forum=csharpgeneral)
-[run code from python file from another python file](https://stackoverflow.com/questions/7974849/how-can-i-make-one-python-file-run-another)
+- [read code from a String](https://social.msdn.microsoft.com/Forums/Lync/en-US/e15bb0e1-6759-4afe-8c3c-d32d751efc87/i-want-to-execute-a-line-of-c-code-stored-in-a-string?forum=csharpgeneral)
+- [run code from python file from another python file](https://stackoverflow.com/questions/7974849/how-can-i-make-one-python-file-run-another)
 
 
 - C# (for windows desktop application) 
