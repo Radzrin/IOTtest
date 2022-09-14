@@ -2,7 +2,7 @@
 
 ## This is a test to run my IOT projects using a GUI
 
-All versions can run C#, Python and possibly Java code
+All versions will be able to run C#, Python and possibly Java code
 
 - C# (for windows destop application) 
 - [ ] Home Page
