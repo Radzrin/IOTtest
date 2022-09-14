@@ -1,0 +1,37 @@
+body{
+	background-color: gray;
+	color: white;
+}
+
+nav{
+	font-size: large;
+}
+
+nav a:hover{
+	text-decoration: none;
+}
+
+.navbar-brand{
+	font-size: xx-large;
+}
+
+button{
+	color: black;
+	font-size: large;
+}
+
+button:hover{
+	background-color: lightgray;	
+}
+
+.UserCode{
+	background-color: black;
+	font-size: medium;
+	width: 40%;
+	height: 100%;
+}
+
+#code{
+	float: left;
+	display: flex;
+}
