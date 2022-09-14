@@ -8,7 +8,7 @@ HTML/PHP/JS/CSS (for a browser environment)
 
 SQL will be used as a database
 
-| Syntax | Description |
+| Name | File Type |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text | 
