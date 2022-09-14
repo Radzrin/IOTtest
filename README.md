@@ -4,7 +4,7 @@
 
 All versions will be able to run C#, Python and possibly Java code
 
-- C# (for windows destop application) 
+- C# (for windows desktop application) 
 - [ ] Home Page
 - [ ] Github Page
 - [ ] I/O Page
@@ -14,7 +14,7 @@ All versions will be able to run C#, Python and possibly Java code
 - [ ] Github Page
 - [ ] I/O Page
 
-- HTML/PHP/JS/CSS (for a browser environment)
+- HTML/PHP/JS/CSS (for browser)
 - [ ] Home Page
 - [ ] I/O Page
 - [ ] Work Page
