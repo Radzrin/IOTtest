@@ -25,4 +25,4 @@ SQL will be used as a database
 | ----------- | ----------- |
 | Files | Title |
 | C# version download| Title |
-| Pyton version download| Title |
+| Python version download| Title |
